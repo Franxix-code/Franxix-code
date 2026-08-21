@@ -52,20 +52,6 @@ What I worked with:
 
 🔗 "View Project" (#)
 
-🌦️ WeatherWise
-
-A full-stack weather application built with Django, HTML, CSS and JavaScript.
-
-Features include:
-
-- Weather information by city
-- Browser geolocation
-- 5-day weather forecast
-- Voice input
-- Text-to-speech
-- Django backend
-
-🔗 "View Project" (#)
 📚 My Data Engineering Journey
 
 I'm building my foundation step by step, with a focus on practical projects and real-world data problems.
