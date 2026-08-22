@@ -50,7 +50,7 @@ What I worked with:
 - Aggregations
 - Business-oriented analysis
 
-🔗 "View Project" (#)
+🔗 https://github.com/Franxix-code/olist-sql-analysis
 
 📚 My Data Engineering Journey
 
